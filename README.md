@@ -22,19 +22,12 @@ The goal is to transform raw data into meaningful insights through visualization
 - Filters and slicers for dynamic analysis
 - Trend and comparison analysis
 
-
-##  How to Use
-1. Download the `.pbix` file
-2. Open it using **Power BI Desktop**
-3. Refresh the data (if required)
-4. Explore dashboards and visuals
-
 ##  Insights Generated
 - Performance trends over time
 - Category-wise and metric-wise analysis
 - Key business indicators visualization
 
-## 👤 Author
+##  Author
 **Saideepu Balaraju**  
 
 
